@@ -1,0 +1,8 @@
+title: Openssl
+description: OpenSSL CocoaPod for iOS and OSX
+google_analytics: UA-45017512-1
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
